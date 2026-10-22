@@ -93,7 +93,7 @@ h1 {
 
 /* Controls links states */
 a:link {
-    color: black;
+    color: rgb(18, 104, 242);
 }
 
 a:visited {
