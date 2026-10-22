@@ -79,7 +79,7 @@ section h2+p {
 }
 
 p {
-
+    line-height: normal;
     font-size: 18px;
 }
 
@@ -139,7 +139,7 @@ nav {
 nav a {
 
     display: flex;
-    align-items: center; 
+    align-items: center;
     font-size: 15px;
     max-width: 200px;
     min-height: 50px;
@@ -154,6 +154,7 @@ aside a {
     font-size: 20px;
 }
 
-section ul+li {
-    font-size: 12px;
+section li {
+    font-size: 18px;
+    line-height: normal;
 }
